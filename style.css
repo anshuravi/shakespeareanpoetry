@@ -1,0 +1,20 @@
+header {
+    background-color: #8e8271; /* Dark brown header background */
+    color: #f7f1e3; /* Light text color */
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  h2 {
+    color: #8e8271; /* Dark brown heading color */
+  }
+  
+  /* Add more styles for other sections and elements as needed */
